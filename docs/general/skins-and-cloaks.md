@@ -8,12 +8,12 @@ sidebar_position: 4
 
 Для того, чтобы установить обычный скин или плащ формата 64х64, вам нужно зайти в [личный кабинет](politcubes.ru/auth) и нажать кнопку «*Редактировать*».
 
-![  ](https://sun9-64.userapi.com/impg/ZBmLrmVx7F_WiINiCGyNfrlYHAWOg17mp_SxPg/swEuITZDCQA.jpg?size=807x559&quality=96&sign=0bc41e787efdd8d4cd8572dfb8ef1b16&type=album)
+![  ](https://sun9-25.userapi.com/impg/w2tUFfXRUJ8RGFor8tWBauZFLTT4Lp6IaVC6vQ/rTWLm0NtUG0.jpg?size=1845x989&quality=96&sign=591f6bf8acdb9ba9657100866ba62fdd&type=album)
 
 Нажимаете на кнопку «*Загрузить скин\плащ*» и загружаете файл в формате PNG. 
 >Файл должен быть расширения 64х64, а если вам требуется HD скин — расширение файла должно рассчитываться по формуле 64*чётное число (64, 128, 256, 512, 1024).
 
-![   ](https://sun9-53.userapi.com/impg/nQlQ_JfkgHoP_URdTBFYLr1CH6t1--GvolQMvA/lUSeEavmBtg.jpg?size=519x490&quality=96&sign=9fb070f03499adbd907f2fcefb2a71ba&type=album)
+![   ](https://sun9-29.userapi.com/impg/NcpaeY-ClQ0xnVqUK08nJHp_41pBItsOQNOWbA/wApOngtzDn0.jpg?size=222x293&quality=96&sign=65ad8f1375c3370fdf83416a074d86f3&type=album) ![  ](https://sun9-5.userapi.com/impg/qjQzdMFz6Z_tuKnWnM-8D4T5F7Dlgy39RmgUZQ/oqtcGgNREwI.jpg?size=217x293&quality=96&sign=e88b283d21312fc7d237839a77d6ffc8&type=album)
 
 ## **Что делать, если мой HD скин не устанавливается?**
 
