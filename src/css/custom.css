@@ -25,7 +25,7 @@
     color: rgba(255,255,255,.6);
 }
 
-.footer_item {
+.footer_item>a {
     color: rgba(255,255,255,.3);
     text-decoration: none;
 }
