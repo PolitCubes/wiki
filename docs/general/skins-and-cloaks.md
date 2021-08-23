@@ -35,7 +35,7 @@ sidebar_position: 4
 
 С помощью инструмента «*Волшебная палочка*» выделяем белую область и удаляем нажатием на кнопку *Delete*.
 
-Далее нам потребуется скачать [эту картинку](https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/0/01/Skinzones.png/revision/latest?cb=20210501102749) (разметка для скинов).
+Далее нам потребуется скачать [эту картинку](https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/1/14/Скин_игрока_%28шаблон%29.png/revision/latest?cb=20140123122920) (разметка для скинов).
 
 Открываем эту картинку через наш граф. редактор, и делаем следующую операцию:
 
