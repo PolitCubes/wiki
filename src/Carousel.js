@@ -1,14 +1,16 @@
-import { Swiper, SwiperSlide } from "swiper/react";
+import React from 'react'
 
-import "swiper/swiper.min.css";
+import { Swiper, SwiperSlide } from "swiper/react"
+
+import "swiper/swiper.min.css"
 import "swiper/components/pagination/pagination.min.css"
 import "swiper/components/navigation/navigation.min.css"
 
 import SwiperCore, {
-    Pagination,Navigation
-} from 'swiper/core';
+    Pagination, Navigation
+} from 'swiper/core'
 
-SwiperCore.use([Pagination,Navigation]);
+SwiperCore.use([Pagination,Navigation])
 
 export default (props) => {
     return (
@@ -19,5 +21,5 @@ export default (props) => {
                 <SwiperSlide>{child}</SwiperSlide>
             ))}
         </Swiper>
-    );
-};
+    )
+}
