@@ -1,24 +1,27 @@
-import React from 'react'
+import React from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
 
-import { Swiper, SwiperSlide } from "swiper/react"
-
-import "swiper/swiper.min.css"
-import "swiper/components/pagination/pagination.min.css"
-import "swiper/components/navigation/navigation.min.css"
+import 'swiper/css/bundle'
+import "swiper/css";
+import "swiper/css/pagination"
+import "swiper/css/navigation"
 
 import SwiperCore, {
-    Pagination, Navigation
-} from 'swiper/core'
+    Pagination,Navigation
+} from 'swiper';
 
-SwiperCore.use([Pagination,Navigation])
+import styles from './carousel.module.css';
+
+SwiperCore.use([Pagination,Navigation]);
 
 export default (props) => {
     return (
-        <Swiper pagination={{
-            type: 'fraction'
-        }} navigation={true}>
+        <Swiper
+            pagination={true}
+            navigation={true}
+        >
             {React.Children.map(props.children, (child) => (
-                <SwiperSlide>{child}</SwiperSlide>
+                <SwiperSlide className={styles['swiper-slide']}>{child}</SwiperSlide>
             ))}
         </Swiper>
     )
