@@ -14,19 +14,19 @@ sidebar_position: 2
 
 Давайте разберемся, как это все работает! Для начала добавьте игрока в чанк с помощью команды /*plot perm add* [*ник*], после чего пропишите команду /*plot perm gui*. В появившемся меню вы увидите голову игрока, которого вы добавили ранее в этот чанк, нажмите на нужного вам игрока:
 
-![  ](https://sun9-49.userapi.com/impg/_MPg4_BrCn7_sSWttjY7BRwV40cZ5KTxcBRoHA/dll9hw0sN0U.jpg?size=1919x1008&quality=96&sign=a4734ed647932459fa68048cfe41a425&type=album)
-
-![  ](https://sun9-2.userapi.com/impg/s3W_4789mvGPl4NbIIqLNJ5f379_xcNu4Iumng/pTctkIHCGKk.jpg?size=1918x1006&quality=96&sign=7e6cf0f6bde4ebf0aef8871643090c06&type=album)
+<Carousel>
+    <img src="https://sun9-49.userapi.com/impg/_MPg4_BrCn7_sSWttjY7BRwV40cZ5KTxcBRoHA/dll9hw0sN0U.jpg?size=1919x1008&quality=96&sign=a4734ed647932459fa68048cfe41a425&type=album"/>
+    <img src="https://sun9-2.userapi.com/impg/s3W_4789mvGPl4NbIIqLNJ5f379_xcNu4Iumng/pTctkIHCGKk.jpg?size=1918x1006&quality=96&sign=7e6cf0f6bde4ebf0aef8871643090c06&type=album"/>
+</Carousel>
 
 После нажатия появится возможность настроить права игрока на этом чанке.
 
-![  ](https://sun9-10.userapi.com/impg/4q2R2IFwTmtUCyQISHpXHApU5GyEYXn8A_ACRQ/MJ7644tzTtY.jpg?size=1568x575&quality=96&sign=519c45153d1a11498232fbfd5e3b9e9c&type=album)
-
-![  ](https://sun9-41.userapi.com/impg/OO1cZM3BIzi-Go02Rs_VuMZgIsLUedKo5bUdtA/g2TivnvU704.jpg?size=1573x575&quality=96&sign=bcd8515478c7d8da6845b8e1db4d0e70&type=album)
-
-![  ](https://sun9-74.userapi.com/impg/a7sGdgmKByjzpZtgSH5Y5YZzBwzOSGeu8rwa6g/Ryq2qFgLLyA.jpg?size=1571x575&quality=96&sign=5dddf1a18a51595717102bead703f5cf&type=album)
-
-![  ](https://sun9-42.userapi.com/impg/8mou4S56zXiQC822TBMM_16gt-4_q6gcyBQwNw/WrSR0-wTXN4.jpg?size=1568x577&quality=96&sign=e10cce5b9e7558e01f97ba62d90838b2&type=album)
+<Carousel>
+    <img src="https://sun9-10.userapi.com/impg/4q2R2IFwTmtUCyQISHpXHApU5GyEYXn8A_ACRQ/MJ7644tzTtY.jpg?size=1568x575&quality=96&sign=519c45153d1a11498232fbfd5e3b9e9c&type=album"/>
+    <img src="https://sun9-41.userapi.com/impg/OO1cZM3BIzi-Go02Rs_VuMZgIsLUedKo5bUdtA/g2TivnvU704.jpg?size=1573x575&quality=96&sign=bcd8515478c7d8da6845b8e1db4d0e70&type=album"/>
+    <img src="https://sun9-74.userapi.com/impg/a7sGdgmKByjzpZtgSH5Y5YZzBwzOSGeu8rwa6g/Ryq2qFgLLyA.jpg?size=1571x575&quality=96&sign=5dddf1a18a51595717102bead703f5cf&type=album">
+    <img src="https://sun9-42.userapi.com/impg/8mou4S56zXiQC822TBMM_16gt-4_q6gcyBQwNw/WrSR0-wTXN4.jpg?size=1568x577&quality=96&sign=e10cce5b9e7558e01f97ba62d90838b2&type=album">
+</Carousel>
 
     Не забудьте сохранить настройки!
 
@@ -59,9 +59,10 @@ sidebar_position: 2
 
 1. Выдаю каждому красному и синему чанку группу fire и mobs соответственно (название можно поставить любое):
 
-![  ](https://sun9-60.userapi.com/impg/TXQLJIaBZR1Olx6Ma5ZfxOW5wJMOdF5LiZw6BQ/gGgU9PQQQyY.jpg?size=807x428&quality=96&sign=511667011a83b9da4b707b1e08f16934&type=album)
-
-![  ](https://sun9-16.userapi.com/impg/7rGkGbxzj-KMDM6QeVnIHmw_k1-haOMjCBw7hA/_t8Mlh-BXXQ.jpg?size=1920x1018&quality=96&sign=0450dff2f40015e4ac62890998e4a50e&type=album)
+<Carousel>
+    <img src="https://sun9-60.userapi.com/impg/TXQLJIaBZR1Olx6Ma5ZfxOW5wJMOdF5LiZw6BQ/gGgU9PQQQyY.jpg?size=807x428&quality=96&sign=511667011a83b9da4b707b1e08f16934&type=album"/>
+    <img src="https://sun9-16.userapi.com/impg/7rGkGbxzj-KMDM6QeVnIHmw_k1-haOMjCBw7hA/_t8Mlh-BXXQ.jpg?size=1920x1018&quality=96&sign=0450dff2f40015e4ac62890998e4a50e&type=album"/>
+</Carousel>
 
 2. Находясь на одном из красных/синих чанков, меняю настройки **ВСЕЙ** группы сразу одной командой:
 
