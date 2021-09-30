@@ -8,3 +8,4 @@
 - Сделать главную страницу (https://devwiki.politcubes.ru/)
 - Сделать intro (Введение) (https://devwiki.politcubes.ru/docs/intro)
 - https://wiki.politcubes.ru/docs/features/custom%20equimpent Устаревшая инфа, кастом итемы делаются через НПС
+- Переместить картинки в static
