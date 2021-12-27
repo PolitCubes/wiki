@@ -10,3 +10,4 @@
 - Сделать intro (Введение) (https://wiki.politcubes.ru/docs/intro)
 - https://wiki.politcubes.ru/docs/features/custom%20equimpent Устаревшая инфа, кастом итемы делаются через НПС
 - Переместить картинки в static
+- Сделать картинки менее кривыми
