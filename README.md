@@ -25,3 +25,4 @@
 - https://wiki.politcubes.ru/docs/features/custom%20equimpent Устаревшая инфа, кастом итемы делаются через НПС
 - Переместить картинки в static
 - Сделать картинки менее кривыми
+- Сделать шаблоны issue & pull request (https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
