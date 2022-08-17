@@ -1,11 +1,3 @@
 .docusaurus/
-autopull.sh
-babel.config.js
-blog/
-docusaurus.config.js
+*.sh
 node_modules/
-package-lock.json
-package.json
-screen.sh
-sidebars.js
-start.sh
