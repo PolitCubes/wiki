@@ -19,7 +19,8 @@ module.exports = {
         alt: 'PolitCubes Logo',
         src: 'static/logo.svg',
         srcDark: 'static/logo_dark.svg',
-        href: 'https://wiki.politcubes.ru/docs/'
+        href: 'https://wiki.politcubes.ru/docs/',
+        target: "_self"
       },
       items: [
         {
