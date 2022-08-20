@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'PolitCubes Wiki',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'PolitCubes - официальная документация',
   url: 'https://wiki.politcubes.ru',
   baseUrl: '/',
   onBrokenLinks: 'throw',
