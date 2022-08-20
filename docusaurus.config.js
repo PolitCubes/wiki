@@ -112,6 +112,10 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
   },
+  i18n: {
+    defaultLocale: "ru",
+    locales: ["ru"]
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
