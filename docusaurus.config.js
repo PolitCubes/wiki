@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'PolitCubes Wiki',
   tagline: 'PolitCubes - официальная документация',
-  url: 'https://wiki.politcubes.ru',
+  url: 'https://wiki.politcubes.ru/docs',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
