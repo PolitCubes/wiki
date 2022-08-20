@@ -21,12 +21,6 @@ module.exports = {
         srcDark: 'static/logo_dark.svg'
       },
       items: [
-        { 
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Введение',
-        },
         {
           href: 'https://github.com/PolitCubes/wiki',
           label: 'GitHub',
