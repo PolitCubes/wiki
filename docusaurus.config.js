@@ -118,14 +118,6 @@ module.exports = {
     defaultLocale: "ru",
     locales: ["ru"]
   },
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        routeBasePath: '/'
-      }
-    ],
-  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -134,6 +126,7 @@ module.exports = {
           customCss: [require.resolve('./src/css/custom.css')],
         },
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/PolitCubes/wiki/edit/main/',
