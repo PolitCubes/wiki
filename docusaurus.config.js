@@ -125,6 +125,7 @@ module.exports = {
         routeBasePath: '/'
       }
     ],
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
