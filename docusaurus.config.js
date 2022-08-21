@@ -18,9 +18,9 @@ module.exports = {
       logo: {
         alt: 'PolitCubes Logo',
         src: 'static/logo.svg',
-        srcDark: 'static/logo_dark.svg',
+        srcDark: 'static/logo_dark.svg'/**,
         href: 'https://wiki.politcubes.ru/docs/',
-        target: "_self"
+        target: "_self"*/
       },
       items: [
         {
@@ -118,6 +118,13 @@ module.exports = {
     defaultLocale: "ru",
     locales: ["ru"]
   },
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        routeBasePath: '/'
+      }
+    ],
   presets: [
     [
       '@docusaurus/preset-classic',
