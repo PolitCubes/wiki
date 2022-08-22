@@ -28,6 +28,8 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+		{to: '/', label: 'Документация', position: 'left'},
+		{to: '/blog', label: 'Блог', position: 'left'},
       ],
     },
     footer: {
@@ -128,6 +130,11 @@ module.exports = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          editUrl:
+            'https://github.com/PolitCubes/wiki/edit/main/',
+        },
+		blog: {
+          showReadingTime: false,
           editUrl:
             'https://github.com/PolitCubes/wiki/edit/main/',
         },

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Блог",
+    "description": "Чейнжлоги Политкубс"
+  },
+  "description": {
+    "message": "Блог",
+    "description": "Чейнжлоги Политкубс"
+  },
+  "sidebar.title": {
+    "message": "Последние публикации",
+    "description": "Список последних публикаций"
+  }
+}
