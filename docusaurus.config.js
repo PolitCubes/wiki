@@ -43,15 +43,15 @@ module.exports = {
           items: [
             {
               label: 'Правила проекта',
-              href: '/docs/general/rules',
+              href: '/general/rules',
             },
             {
               label: 'Регистрация',
-              href: '/docs/general/registration',
+              href: '/general/registration',
             },
             {
               label: 'FAQ',
-              href: '/docs/general/faq',
+              href: '/general/faq',
             },
           ],
         },
@@ -129,12 +129,12 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/PolitCubes/wiki/edit/main/',
+            'https://github.com/PolitCubes/wiki/blob/main/',
         },
 		blog: {
           showReadingTime: false,
           editUrl:
-            'https://github.com/PolitCubes/wiki/edit/main/',
+            'https://github.com/PolitCubes/wiki/blob/main/',
         },
       },
     ],
