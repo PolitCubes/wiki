@@ -24,3 +24,6 @@
 - Сделать картинки менее кривыми
 - Сделать шаблоны issue & pull request (https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 - Убрать пробелы в названиях файлов
+- Написать про дополнительные миры: ад и энд, размеры измерений: 20х20к (не забыть особенности привата) 
+- Предложить ознакомиться с правилами прежде чем начинать игру во вступлении
+- Убрать двоеточия в структуре статей
