@@ -1,7 +1,7 @@
 - подогнать картинки в статье про Brewery под один размер
 - В ставтье про бревери пропущен этап постройки бочки (два центральных блока должны оставаться пустыми)
 - Избавиться от устаревшей информации и упростить формулировки
-- https://wiki.politcubes.ru/docs/features/custom%20equimpent Устаревшая инфа, кастом итемы делаются через НПС
+- https://wiki.politcubes.com/docs/features/custom%20equimpent Устаревшая инфа, кастом итемы делаются через НПС
 - Переместить картинки в static
 - Сделать картинки менее кривыми
 - Сделать шаблоны issue & pull request (https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)

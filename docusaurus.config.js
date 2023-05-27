@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'PolitCubes Wiki',
   tagline: 'PolitCubes - официальная документация',
-  url: 'https://wiki.politcubes.ru',
+  url: 'https://wiki.politcubes.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,7 +64,7 @@ module.exports = {
             },
             {
               label: 'Сайт',
-              href: 'https://politcubes.ru',
+              href: 'https://politcubes.com',
             },
             {
               label: 'Discord',
@@ -72,7 +72,7 @@ module.exports = {
             },
             {
               label: 'Служба поддержки',
-              href: 'mailto:support@politcubes.ru',
+              href: 'mailto:support@politcubes.com',
             },
           ],
         },
@@ -81,15 +81,15 @@ module.exports = {
           items: [
             {
               label: 'Личный кабинет',
-              href: 'https://politcubes.ru/auth',
+              href: 'https://politcubes.com/auth',
             },
             {
               label: 'Забыли пароль?',
-              href: 'https://politcubes.ru/restore',
+              href: 'https://politcubes.com/restore',
             },
             {
               label: 'Регистрация',
-              href: 'https://politcubes.ru/actions',
+              href: 'https://politcubes.com/actions',
             },
           ],
         },
@@ -102,7 +102,7 @@ module.exports = {
             },
             {
               label: 'Онлайн карта',
-              href: 'https://politcubes.ru/map',
+              href: 'https://politcubes.com/map',
             },
           ],
         },
