@@ -10,10 +10,10 @@ sidebar_position: 5
 
 Для этого существует специальный предмет "Ремкомплект".
 
-![remcomplekt](/remcomplekt.png)
+![remcomplekt](/features/remcomplekt.png)
 
 Также заметим, для всех предметов на сервере увеличен максимальный порог починки.
 
-![fix](/fix.png)	
+![fix](/features/fix.png)	
 
 И поверьте, 65 уровень - не предел!
