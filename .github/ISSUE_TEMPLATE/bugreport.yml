@@ -1,0 +1,38 @@
+name: Исправление ошибок
+description: Вы можете самостоятельно исправить информацию в нашем вики.
+labels: ['type:ошибка', 'status:ожидание']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Обратите внимание, что это касается только ошибок, связанных с вики и нашим проектом. Любая другая информация приниматься не будет.
+
+  - type: input
+    attributes:
+      label: Название ошибки
+      description: Опишите тему ваших ошибок.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Описание исправлений
+      description: Опишите, что конкретно Вы изменили.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Шаги исправления
+      description: Если у Вас есть ошибки, которые Вы не можете исправить, то опишите, что мы должны сделать.
+      value: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Что-то еще?
+      description: Ваши пожелания
