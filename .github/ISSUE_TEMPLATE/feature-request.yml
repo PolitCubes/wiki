@@ -1,6 +1,6 @@
 name: Предложить улучшения
 description: Вы можете предложить, что добавить или изменить по вики.
-labels: ['type:предложение', 'status:ожидание']
+labels: ['enhancement', 'pending']
 
 body:
   - type: textarea

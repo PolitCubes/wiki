@@ -1,6 +1,6 @@
 name: Задать вопрос
 description: Вы можете задать вопрос об интересующих Вас аспектах и механиках.
-labels: ['type:вопрос', 'status:ожидание']
+labels: ['question', 'pending']
 
 body:
   - type: textarea
