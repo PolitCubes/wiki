@@ -3,5 +3,4 @@
 - Подогнать картинки в статье про Brewery под один размер
 - В статье про Brewery пропущен этап постройки бочки (два центральных блока должны оставаться пустыми)
 - Сделать картинки менее кривыми
-- Сделать шаблоны issue & pull request (https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 - Написать про дополнительные миры: ад и энд, размеры измерений: 20х20к (не забыть особенности привата) 
