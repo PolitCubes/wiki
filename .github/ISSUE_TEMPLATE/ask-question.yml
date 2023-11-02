@@ -1,0 +1,11 @@
+name: Задать вопрос
+description: Вы можете задать вопрос об интересующих Вас аспектах и механиках.
+labels: ['question', 'pending']
+
+body:
+  - type: textarea
+    attributes:
+      label: Развернутое описание Вашего вопроса
+      description: Опишите, что конкретно Вы хотели бы уточнить.
+    validations:
+      required: true

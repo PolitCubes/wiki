@@ -1,4 +1,7 @@
 .docusaurus/
 *.sh
 node_modules/
+.idea
+yarn.lock
 build/
+

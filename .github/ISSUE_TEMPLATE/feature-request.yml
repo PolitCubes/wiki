@@ -1,0 +1,11 @@
+name: Предложить улучшения
+description: Вы можете предложить, что добавить или изменить по вики.
+labels: ['enhancement', 'pending']
+
+body:
+  - type: textarea
+    attributes:
+      label: Развернутое описание Ваших предложений
+      description: Опишите, что конкретно Вы бы изменили.
+    validations:
+      required: true

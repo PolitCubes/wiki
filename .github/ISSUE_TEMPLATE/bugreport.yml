@@ -1,0 +1,22 @@
+name: Исправление ошибок
+description: Вы можете самостоятельно исправить информацию в нашем вики.
+labels: ['invalid', 'pending']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Обратите внимание, что это касается только ошибок, связанных с вики и нашим проектом. Любая другая информация приниматься не будет.
+
+
+  - type: textarea
+    attributes:
+      label: Описание обнаруженных Вами недоработок
+      description: Опишите, что конкретно Вы бы изменили.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Что-то еще?
+      description: Ваши пожелания
