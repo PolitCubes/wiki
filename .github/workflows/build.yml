@@ -27,7 +27,7 @@ jobs:
       - name: Build Node.js site
         run: npm run build
 
-    build-docker:
+  build-docker:
     runs-on: self-hosted
     if: github.event_name != 'pull_request'
     steps:
