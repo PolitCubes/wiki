@@ -113,6 +113,14 @@ module.exports = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
     },
+    algolia: {
+      appId: 'XVA4Z2U2B0',
+      apiKey: 'd28d0ed636fae9bd6beb6526c268de4a',
+      indexName: 'politcubes',
+      contextualSearch: true,
+      searchPagePath: 'search',
+      insights: false,
+    },
   },
   i18n: {
     defaultLocale: "ru",
