@@ -117,7 +117,7 @@ module.exports = {
       appId: 'XVA4Z2U2B0',
       apiKey: 'd28d0ed636fae9bd6beb6526c268de4a',
       indexName: 'politcubes',
-      contextualSearch: true,
+      contextualSearch: false,
       searchPagePath: 'search',
       insights: false,
     },
