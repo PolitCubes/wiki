@@ -1,5 +1,4 @@
-haff:
-  name: Haff
-  title: Комьюнити-менеджер
-  url: https://vk.com/officialhaff
-  image_url: https://github.com/officialhaff.png
+babka:
+  name: babka
+  title: Старче
+  image_url: /babka.png
