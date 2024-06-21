@@ -1,0 +1,70 @@
+{
+  "link.title.Основное": {
+    "message": "Основное",
+    "description": "The title of the footer links column with title=Основное in the footer"
+  },
+  "link.title.Сообщество": {
+    "message": "Сообщество",
+    "description": "The title of the footer links column with title=Сообщество in the footer"
+  },
+  "link.title.Аккаунт": {
+    "message": "Аккаунт",
+    "description": "The title of the footer links column with title=Аккаунт in the footer"
+  },
+  "link.title.Другое": {
+    "message": "Другое",
+    "description": "The title of the footer links column with title=Другое in the footer"
+  },
+  "link.item.label.Правила проекта": {
+    "message": "Правила проекта",
+    "description": "The label of footer link with label=Правила проекта linking to /general/rules"
+  },
+  "link.item.label.Регистрация": {
+    "message": "Регистрация",
+    "description": "The label of footer link with label=Регистрация linking to https://politcubes.com/actions"
+  },
+  "link.item.label.FAQ": {
+    "message": "FAQ",
+    "description": "The label of footer link with label=FAQ linking to /general/faq"
+  },
+  "link.item.label.VK": {
+    "message": "VK",
+    "description": "The label of footer link with label=VK linking to https://vk.com/politcubes"
+  },
+  "link.item.label.Сайт": {
+    "message": "Сайт",
+    "description": "The label of footer link with label=Сайт linking to https://politcubes.com"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://cc.politcubes.com/classic/discord"
+  },
+  "link.item.label.Служба поддержки": {
+    "message": "Служба поддержки",
+    "description": "The label of footer link with label=Служба поддержки linking to mailto:support@politcubes.com"
+  },
+  "link.item.label.Личный кабинет": {
+    "message": "Личный кабинет",
+    "description": "The label of footer link with label=Личный кабинет linking to https://politcubes.com/auth"
+  },
+  "link.item.label.Забыли пароль?": {
+    "message": "Забыли пароль?",
+    "description": "The label of footer link with label=Забыли пароль? linking to https://politcubes.com/restore"
+  },
+  "link.item.label.HotMC": {
+    "message": "HotMC",
+    "description": "The label of footer link with label=HotMC linking to https://hotmc.ru/minecraft-server-214692"
+  },
+  "link.item.label.Онлайн-карта": {
+    "message": "Онлайн-карта",
+    "description": "The label of footer link with label=Онлайн-карта linking to https://map.politcubes.com"
+  },
+  "copyright": {
+    "message": "© 2019-2024 Команда PolitCubes",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "PolitCubes Logo",
+    "description": "The alt text of footer logo"
+  }
+}

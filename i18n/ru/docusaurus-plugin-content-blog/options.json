@@ -1,14 +1,14 @@
 {
   "title": {
     "message": "Блог",
-    "description": "Чейнжлоги Политкубс"
+    "description": "The title for the blog used in SEO"
   },
   "description": {
     "message": "Блог",
-    "description": "Чейнжлоги Политкубс"
+    "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
-    "message": "Последние публикации",
-    "description": "Список последних публикаций"
+    "message": "Недавние публикации",
+    "description": "The label for the left sidebar"
   }
 }

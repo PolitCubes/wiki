@@ -1,0 +1,8 @@
+classic:
+  label: Classic
+  permalink: /classic
+  description: Новости сервера Classic
+modern:
+  label: Modern
+  permalink: /modern
+  description: Новости сервера Modern

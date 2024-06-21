@@ -1,5 +1,11 @@
+.docusaurus
 .git
 .github
+build
 docs-unused
+node-modules
+.gitattributes
+.gitignore
+Dockerfile
 README.md
 TODO.md
