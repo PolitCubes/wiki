@@ -30,7 +30,7 @@ const config: Config = {
     v4: {
       removeLegacyPostBuildHeadAttribute: true,
     },
-    experimental_faster: true,
+    faster: true,
   },
 
   // Even if you don't use internationalization, you can use this field to set
