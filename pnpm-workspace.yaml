@@ -1,0 +1,9 @@
+packages:
+  - '.'
+
+# pnpm 11+ fails the install on unreviewed build scripts.
+# Neither is needed: @swc/core gets its native binary from an optional
+# dependency, core-js's postinstall only prints a banner.
+allowBuilds:
+  '@swc/core': false
+  core-js: false

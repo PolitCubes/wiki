@@ -1,7 +1,7 @@
 FROM node:20-alpine AS build
 WORKDIR /app
 COPY --chown=node:node . /app
-RUN npm install -g pnpm
+RUN npm install -g pnpm@10.34.9
 RUN pnpm install --prod --frozen-lockfile
 RUN pnpm build
 
